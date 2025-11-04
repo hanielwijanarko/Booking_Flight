@@ -1,10 +1,11 @@
-# flutter_booking_pesawat
+**Aplikasi Booking Tiket Pesawat**
+##Dengan 5 halaman utama yaitu,
+*1.	Splash Screen: Tampilan awal yang menampilkan logo aplikasi.
+*2.	Search Flight Page: Halaman utama yang menampilkan form pencarian pesawat.
+*3.	Search Result Page: Halaman yang menampilkan list hasil pencarian tiket (Nama Maskapai, Jam Berangkat, Jam Tiba, Harga).
+*4.	Booking Detail Page: Halaman form untuk mengisi data pemesan dan data penumpang (Nama, No. KTP, Email, No. HP).
+*5.	My Tickets Page: Halaman yang menampilkan list tiket yang sudah dibeli (bisa berupa Card yang berisi kode booking dan rute).
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
