@@ -25,11 +25,7 @@ Halaman personal yang menampilkan list tiket yang sudah dibeli.
 Tiket disajikan dalam format Card yang mudah dibaca, berisi Kode Booking dan detail Rute Penerbangan.
 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Instalasi dan Penggunaan
+- Clone repositori ini: git clone [URL_REPO]
+- Buka terminal di direktori proyek dan jalankan: flutter pub get
+- Jalankan aplikasi di perangkat atau emulator: flutter run
